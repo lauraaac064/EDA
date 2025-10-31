@@ -24,9 +24,7 @@ El objetivo es que aprenda a **identificar valores faltantes, detectar outliers,
 
 - Importación y exploración inicial de los datos  
 - Inspección de tipos de variables y estructura del dataset  
-- Análisis descriptivo y estadístico básico  
-- Identificación de valores atípicos (outliers)  
+- Análisis descriptivo y estadístico básico   
 - Visualización de datos 
 - Análisis de correlaciones y relaciones entre variables
-  
 - Reflexiones finales sobre hallazgos del dataset  
